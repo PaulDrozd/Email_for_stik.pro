@@ -50,7 +50,7 @@ div {
               <tr>
                 <td>
                   <span style="font-family:Roboto, Geneva, sans-serif;">
-                    <a href="http://www.stik.pro" style="font-size:16px; font-weight: 600;color:#FF3333;" target="_blank">www.stik.pro</a>
+                    <a href="http://www.stik.pro" style="font-size:18px; font-weight: 600;color:#FF3333;" target="_blank">www.stik.pro</a>
                   </span>
                 </td>
               </tr>
